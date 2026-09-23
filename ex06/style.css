@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.descripcion {
+    color: gray;
+}
+
+.preu {
+    font-weight: bold;
+}
+
+.estoc {
+    color: green;
+}
+
+.ref {
+    color: gray;
+    font-size: 14px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
