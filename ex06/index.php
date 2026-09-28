@@ -1,4 +1,3 @@
-```php
 <?php
 
 const IVA = 0.21;
@@ -82,4 +81,4 @@ $referencia = "CAM-1412383";
 </body>
 
 </html>
-```
+
